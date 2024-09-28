@@ -1,4 +1,5 @@
 - Hi, I’m @Zhou-ten
+- From ShanghaiTech University
 - I’m interested in independent games and circuit design
-- I’m currently learning latex and cpp
-- If you want，please connect me with 3410682645@qq.com
+- I'm currently learning LaTeX and C++
+- If you want, please contact me at 3410682645@qq.com
